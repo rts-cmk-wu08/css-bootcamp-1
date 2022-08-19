@@ -2,7 +2,8 @@
 
 I denne opgave skal du arbejde med nogle helt basale CSS regler og metoder.
 
-Du skal bruge din HTML-kode fra HTML Basecamp #1.
+Du skal bruge din HTML-kode fra HTML Bootcamp 1.
+(lav en kopi af html filen i denne opgave).
 
 - Indsæt en baggrundsfarve på din hjemmeside
 - Brug to forskellige skrifttyper - du skal her benytte google-fonts og mindst en relevant fallback pr. regel.
